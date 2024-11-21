@@ -16,13 +16,13 @@ export const MAP_API_KEY = 'AIzaSyBd3O8D32huD6E9qfQpBj_sDCkEw_bQasY';
 // firebase keys, do not forget to change to your own keys here and in file public/firebase-messaging-sw.js
 export const VAPID_KEY =
   '';
-export const API_KEY = '';
-export const AUTH_DOMAIN = '';
-export const PROJECT_ID = '';
-export const STORAGE_BUCKET = '';
-export const MESSAGING_SENDER_ID = '';
-export const APP_ID = '';
-export const MEASUREMENT_ID = '';
+export const API_KEY = 'AIzaSyBV3-c-rdxipPART6yV2bDIoJiQdkcBOEc';
+export const AUTH_DOMAIN = 'fzap-6c7d3.firebaseapp.com';
+export const PROJECT_ID = 'fzap-6c7d3';
+export const STORAGE_BUCKET = 'fzap-6c7d3.firebasestorage.app';
+export const MESSAGING_SENDER_ID = '885764764171';
+export const APP_ID = '1:885764764171:web:afe954a87a293dfefa4d0e';
+export const MEASUREMENT_ID = 'G-YVFW5BZBLS';
 
 // recaptcha key, you can get it from https://www.google.com/recaptcha/admin/create
 export const RECAPTCHASITEKEY = '6LeKjIIqAAAAAPZgP8yotioxohPAh59bWca-8Lmi';
